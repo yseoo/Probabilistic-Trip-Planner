@@ -1,6 +1,14 @@
 # Final Assignment: Robust Journey Planning
 
-**Executive summary:** build a robust SBB journey planner for the Zürich area, and make a short video presentation of it, to be done in **groups of 5 or 6**.
+## Results
+
+![planner](./presentation/planner.gif)
+
+The final results and methodology are presented in this [presentation](./presentation/Large%20Scale%20Final%20Project.pptx). Below you can find the instructions that we were given for the final project.
+
+## Executive summary: 
+
+build a robust SBB journey planner for the Zürich area, and make a short video presentation of it, to be done in **groups of 5 or 6**.
 
 * Video presentations are due before **May 29th, 23:59**
 * Code due before **May 30, 23:59**.
